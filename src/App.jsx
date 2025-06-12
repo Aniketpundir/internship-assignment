@@ -57,7 +57,7 @@ const MovieCard = ({ movie }) => {
 
 const MovieCardList = () => {
   return (
-    <div className="min-h-screen bg-gray-100 py-10 px-4 flex flex-col justify-between">
+    <div className="min-h-screen bg-gray-100 py-10 px-4">
       <header className="bg-gray-800 text-white text-center py-4 text-2xl font-bold h-20 flex justify-center items-center">
         🎬 React Movie Cards
       </header>
